@@ -12,6 +12,29 @@ sites:
     url: https://en.wikipedia.org
   - name: Broken Site Yes
     url: itsrlybroken1.ksa
+  - name: Broken Site Yes
+    url: 	asliceofthecloud.com
+  - name: Broken Site Yes
+    url: basketballmyworld.com
+  - name: Broken Site Yes
+    url: bikanerelectrical.com
+  - name: Broken Site Yes
+    url: biryanimaxx.com
+  - name: Broken Site Yes
+    url: carolinaretinaeyecare.com
+  - name: Broken Site Yes
+    url: caryendoscopycenter.com
+  - name: Broken Site Yes
+    url: caryinternalmedicine.com
+  - name: Broken Site Yes
+    url: centerfordigestivediseases.com
+  - name: Broken Site Yes
+    url: cholanad.com
+  - name: Broken Site Yes
+    url: civentichem.com
+    
+    
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
