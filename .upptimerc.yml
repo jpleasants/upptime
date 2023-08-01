@@ -3,8 +3,11 @@ owner: jpleasants # Your GitHub organization or username, where this repository 
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: SAM IT Solutions
+    url: https://samitsolutions.com
+  - name: Plesk 2
+    url: https://plesk2.samitsolutions.com
+    port: 8443
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
