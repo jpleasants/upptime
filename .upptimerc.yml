@@ -12,26 +12,64 @@ sites:
     url: https://en.wikipedia.org
   - name: Broken Site Yes
     url: itsrlybroken1.ksa
-  - name: Broken Site Yes
-    url: 	asliceofthecloud.com
-  - name: Broken Site Yes
+  - name: asliceofthecloud
+    url: asliceofthecloud.com
+  - name: basketballmyworld
     url: basketballmyworld.com
-  - name: Broken Site Yes
+  - name: bikanerelectrical
     url: bikanerelectrical.com
-  - name: Broken Site Yes
+  - name: biryanimaxx
     url: biryanimaxx.com
-  - name: Broken Site Yes
+  - name: carolinaretinaeyecare
     url: carolinaretinaeyecare.com
-  - name: Broken Site Yes
+  - name: caryendoscopycenter
     url: caryendoscopycenter.com
-  - name: Broken Site Yes
+  - name: caryinternalmedicine
     url: caryinternalmedicine.com
-  - name: Broken Site Yes
+  - name: centerfordigestivediseases
     url: centerfordigestivediseases.com
-  - name: Broken Site Yes
+  - name: cholanad
     url: cholanad.com
-  - name: Broken Site Yes
+  - name: civentichem
     url: civentichem.com
+  - name: clearpointhealth
+    url: clearpointhealth.com
+  - name: clovencardamom
+    url: clovencardamom.com
+  - name: dev.patagoniahealth
+    url: dev.patagoniahealth.com
+  - name: directed-vr
+    url: directed-vr.com
+  - name: docnc
+    url: docnc.org
+  - name: guruindiancuisine
+    url: guruindiancuisine.com
+  - name: hcilcode
+    url: hcilcode.com
+  - name: imcs
+    url: imcs.sx 
+  - name: laysciences
+    url: laysciences.com
+  - name: monsoonindiancuisine
+    url: monsoonindiancuisine.com
+  - name: patagoniahealth
+    url: patagoniahealth.com
+  - name: prdbi
+    url: prdbi.com
+  - name: rahul-priyadarshi
+    url: rahul-priyadarshi.net
+  - name: samanalyticsolutions
+    url: samanalyticsolutions.com
+  - name: samitsolutions
+    url: samitsolutions.com
+  - name: tandoorchapelhill
+    url: tandoorchapelhill.com
+  - name: temoacloud
+    url: temoacloud.com
+  - name: zaykaraleigh
+    url: zaykaraleigh.com
+    
+    
     
     
 
