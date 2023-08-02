@@ -8,8 +8,6 @@ sites:
   - name: Plesk 2
     url: https://plesk2.samitsolutions.com
     port: 8443
-  - name: Wikipedia
-    url: https://en.wikipedia.org
   - name: A Slice Of The Cloud
     url: asliceofthecloud.com
   - name: Basketball My World
@@ -20,7 +18,7 @@ sites:
     url: biryanimaxx.com
   - name: Carolina Retina Eyecare
     url: carolinaretinaeyecare.com
-  - name: Caryendoscopy Center
+  - name: Cary Endoscopy Center
     url: caryendoscopycenter.com
   - name: Cary Internal Medicine
     url: caryinternalmedicine.com
@@ -34,35 +32,37 @@ sites:
     url: clearpointhealth.com
   - name: Cloven Cardamom
     url: clovencardamom.com
-  - name: Dev Patagoniahealth
-    url: dev.patagoniahealth.com
   - name: Directed VR
     url: directed-vr.com
-  - name: Docnc
+  - name: DOC NC
     url: docnc.org
   - name: Guru Indian Cuisine
     url: guruindiancuisine.com
   - name: Hcilcode
-    url: hcilcode.com
+    url: HCIL Code
   - name: IMCS
     url: imcs.sx 
-  - name: Laysciences
+  - name: Lay Sciences
     url: laysciences.com
   - name: Monsoon Indian Cuisine
     url: monsoonindiancuisine.com
   - name: Patagonia Health
     url: patagoniahealth.com
+  - name: Patagonia EMR
+    url: patagoniaemr.com
+  - name: Dev Patagoniahealth
+    url: dev.patagoniahealth.com
   - name: PRDBI
     url: prdbi.com
   - name: Rahul Priyadarshi
     url: rahul-priyadarshi.net
   - name: Sam Analytic Solutions
     url: samanalyticsolutions.com
-  - name: Tandoor Chapelhill
+  - name: Tandoor Chapel Hill
     url: tandoorchapelhill.com
   - name: Temoa Cloud
     url: temoacloud.com
-  - name: Zaykaraleigh
+  - name: Zayka Raleigh
     url: zaykaraleigh.com
 
 status-website:
