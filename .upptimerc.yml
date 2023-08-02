@@ -60,22 +60,13 @@ sites:
     url: rahul-priyadarshi.net
   - name: Sam Analytic Solutions
     url: samanalyticsolutions.com
-  - name: Samit Solutions
-    url: samitsolutions.com
   - name: Tandoor Chapelhill
     url: tandoorchapelhill.com
   - name: Temoa Cloud
     url: temoacloud.com
   - name: Zaykaraleigh
     url: zaykaraleigh.com
-    
-    
-    
-    
 
-
-
-  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
