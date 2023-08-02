@@ -46,11 +46,11 @@ sites:
     url: laysciences.com
   - name: Monsoon Indian Cuisine
     url: monsoonindiancuisine.com
-  - name: Patagonia Health
-    url: patagoniahealth.com
   - name: Patagonia EMR
     url: patagoniaemr.com
-  - name: Dev Patagoniahealth
+  - name: Patagonia Health
+    url: patagoniahealth.com
+  - name: Patagonia Health Dev
     url: dev.patagoniahealth.com
   - name: PRDBI
     url: prdbi.com
