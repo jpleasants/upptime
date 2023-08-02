@@ -10,11 +10,51 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 444,
-    "timeDay": 444,
-    "timeWeek": 444,
-    "timeMonth": 444,
-    "timeYear": 444,
+    "time": 413,
+    "timeDay": 413,
+    "timeWeek": 413,
+    "timeMonth": 413,
+    "timeYear": 413,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Coalition for Carolina Foundation",
+    "url": "https://coalitionforcarolinafoundation.org",
+    "icon": "https://icons.duckduckgo.com/ip3/coalitionforcarolinafoundation.org.ico",
+    "slug": "coalition-for-carolina-foundation",
+    "status": "down",
+    "uptime": "8.14%",
+    "uptimeDay": "8.14%",
+    "uptimeWeek": "8.14%",
+    "uptimeMonth": "8.14%",
+    "uptimeYear": "8.14%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-08-02": 0
+    }
+  },
+  {
+    "name": "Vascular Wellness ERP",
+    "url": "https://erp7.carolinawellnessgroup.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/erp7.carolinawellnessgroup.com.ico",
+    "slug": "vascular-wellness-erp",
+    "status": "down",
+    "uptime": "18.99%",
+    "uptimeDay": "18.99%",
+    "uptimeWeek": "18.99%",
+    "uptimeMonth": "18.99%",
+    "uptimeYear": "18.99%",
+    "time": 278,
+    "timeDay": 278,
+    "timeWeek": 278,
+    "timeMonth": 278,
+    "timeYear": 278,
+    "dailyMinutesDown": {
+      "2023-08-02": 0
+    }
   }
 ]
