@@ -10,8 +10,6 @@ sites:
     port: 8443
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Broken Site Yes
-    url: itsrlybroken1.ksa
   - name: A Slice Of The Cloud
     url: asliceofthecloud.com
   - name: Basketball My World
