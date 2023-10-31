@@ -9,7 +9,7 @@ sites:
     url: https://coalitionforcarolinafoundation.org
   - name: Vascular Wellness ERP
     url: https://erp7.carolinawellnessgroup.com/
-    __dangerous__body_down_if_text_missing: "cvw_client_portal"
+    __dangerous__body_down_if_text_missing: "Staff Portal"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
