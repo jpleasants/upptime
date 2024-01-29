@@ -54,9 +54,9 @@
     "url": "https://erp7.carolinawellnessgroup.com/",
     "icon": "https://icons.duckduckgo.com/ip3/erp7.carolinawellnessgroup.com.ico",
     "slug": "vascular-wellness-erp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -66,6 +66,7 @@
     "timeMonth": 397,
     "timeYear": 394,
     "dailyMinutesDown": {
+      "2024-01-29": 0,
       "2023-11-16": 25,
       "2023-11-15": 16,
       "2023-08-11": 17
