@@ -11,9 +11,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.88%",
     "time": 554,
-    "timeDay": 341,
-    "timeWeek": 489,
-    "timeMonth": 528,
+    "timeDay": 456,
+    "timeWeek": 482,
+    "timeMonth": 521,
     "timeYear": 576,
     "dailyMinutesDown": {
       "2025-09-26": 16,
@@ -44,17 +44,16 @@
     "slug": "coalition-for-carolina-foundation",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.34%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.33%",
     "time": 840,
-    "timeDay": 261,
-    "timeWeek": 415,
-    "timeMonth": 497,
+    "timeDay": 276,
+    "timeWeek": 441,
+    "timeMonth": 498,
     "timeYear": 912,
     "dailyMinutesDown": {
-      "2025-10-10": 12,
       "2025-09-04": 105,
       "2025-09-03": 110,
       "2025-08-07": 101,
@@ -80,7 +79,7 @@
       "2025-03-08": 253,
       "2025-03-07": 19,
       "2025-02-20": 221,
-      "2025-02-19": 205
+      "2025-02-19": 257
     }
   },
   {
@@ -94,17 +93,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 431,
-    "timeDay": 288,
-    "timeWeek": 315,
-    "timeMonth": 388,
+    "time": 432,
+    "timeDay": 401,
+    "timeWeek": 346,
+    "timeMonth": 391,
     "timeYear": 430,
     "dailyMinutesDown": {
       "2025-04-16": 27,
       "2025-03-28": 42,
       "2025-02-15": 215,
-      "2024-10-13": 66,
-      "2024-10-11": 46
+      "2024-10-13": 66
     }
   }
 ]
