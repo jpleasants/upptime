@@ -13,7 +13,7 @@
     "time": 554,
     "timeDay": 681,
     "timeWeek": 511,
-    "timeMonth": 500,
+    "timeMonth": 505,
     "timeYear": 579,
     "dailyMinutesDown": {
       "2025-09-26": 16,
@@ -42,18 +42,19 @@
     "url": "https://coalitionforcarolinafoundation.org",
     "icon": "https://icons.duckduckgo.com/ip3/coalitionforcarolinafoundation.org.ico",
     "slug": "coalition-for-carolina-foundation",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.33%",
-    "time": 829,
-    "timeDay": 619,
-    "timeWeek": 410,
-    "timeMonth": 419,
-    "timeYear": 909,
+    "uptimeYear": "99.34%",
+    "time": 828,
+    "timeDay": 577,
+    "timeWeek": 426,
+    "timeMonth": 422,
+    "timeYear": 908,
     "dailyMinutesDown": {
+      "2025-10-28": 0,
       "2025-09-04": 105,
       "2025-09-03": 110,
       "2025-08-07": 101,
@@ -79,7 +80,7 @@
       "2025-03-08": 253,
       "2025-03-07": 19,
       "2025-02-20": 221,
-      "2025-02-19": 257
+      "2025-02-19": 205
     }
   },
   {
