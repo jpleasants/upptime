@@ -37,18 +37,19 @@
     "url": "https://coalitionforcarolinafoundation.org",
     "icon": "https://icons.duckduckgo.com/ip3/coalitionforcarolinafoundation.org.ico",
     "slug": "coalition-for-carolina-foundation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.34%",
-    "time": 850,
-    "timeDay": 4400,
-    "timeWeek": 1653,
-    "timeMonth": 820,
+    "time": 851,
+    "timeDay": 2765,
+    "timeWeek": 1587,
+    "timeMonth": 826,
     "timeYear": 854,
     "dailyMinutesDown": {
+      "2026-01-11": 0,
       "2026-01-03": 25,
       "2026-01-02": 20,
       "2026-01-01": 22,
@@ -80,8 +81,7 @@
       "2025-03-09": 344,
       "2025-03-08": 253,
       "2025-03-07": 19,
-      "2025-02-20": 221,
-      "2025-02-19": 23
+      "2025-02-20": 221
     }
   },
   {
